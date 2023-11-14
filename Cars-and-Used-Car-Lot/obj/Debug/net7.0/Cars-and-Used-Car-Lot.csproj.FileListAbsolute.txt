@@ -1,0 +1,15 @@
+/Users/david/Projects/Cars-and-Used-Car-Lot/Cars-and-Used-Car-Lot/obj/Debug/net7.0/Cars-and-Used-Car-Lot.csproj.AssemblyReference.cache
+/Users/david/Projects/Cars-and-Used-Car-Lot/Cars-and-Used-Car-Lot/obj/Debug/net7.0/Cars-and-Used-Car-Lot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/david/Projects/Cars-and-Used-Car-Lot/Cars-and-Used-Car-Lot/obj/Debug/net7.0/Cars-and-Used-Car-Lot.AssemblyInfoInputs.cache
+/Users/david/Projects/Cars-and-Used-Car-Lot/Cars-and-Used-Car-Lot/obj/Debug/net7.0/Cars-and-Used-Car-Lot.AssemblyInfo.cs
+/Users/david/Projects/Cars-and-Used-Car-Lot/Cars-and-Used-Car-Lot/obj/Debug/net7.0/Cars-and-Used-Car-Lot.csproj.CoreCompileInputs.cache
+/Users/david/Projects/Cars-and-Used-Car-Lot/Cars-and-Used-Car-Lot/bin/Debug/net7.0/Cars-and-Used-Car-Lot
+/Users/david/Projects/Cars-and-Used-Car-Lot/Cars-and-Used-Car-Lot/bin/Debug/net7.0/Cars-and-Used-Car-Lot.deps.json
+/Users/david/Projects/Cars-and-Used-Car-Lot/Cars-and-Used-Car-Lot/bin/Debug/net7.0/Cars-and-Used-Car-Lot.runtimeconfig.json
+/Users/david/Projects/Cars-and-Used-Car-Lot/Cars-and-Used-Car-Lot/bin/Debug/net7.0/Cars-and-Used-Car-Lot.dll
+/Users/david/Projects/Cars-and-Used-Car-Lot/Cars-and-Used-Car-Lot/bin/Debug/net7.0/Cars-and-Used-Car-Lot.pdb
+/Users/david/Projects/Cars-and-Used-Car-Lot/Cars-and-Used-Car-Lot/obj/Debug/net7.0/Cars-and-Used-Car-Lot.dll
+/Users/david/Projects/Cars-and-Used-Car-Lot/Cars-and-Used-Car-Lot/obj/Debug/net7.0/refint/Cars-and-Used-Car-Lot.dll
+/Users/david/Projects/Cars-and-Used-Car-Lot/Cars-and-Used-Car-Lot/obj/Debug/net7.0/Cars-and-Used-Car-Lot.pdb
+/Users/david/Projects/Cars-and-Used-Car-Lot/Cars-and-Used-Car-Lot/obj/Debug/net7.0/Cars-and-Used-Car-Lot.genruntimeconfig.cache
+/Users/david/Projects/Cars-and-Used-Car-Lot/Cars-and-Used-Car-Lot/obj/Debug/net7.0/ref/Cars-and-Used-Car-Lot.dll

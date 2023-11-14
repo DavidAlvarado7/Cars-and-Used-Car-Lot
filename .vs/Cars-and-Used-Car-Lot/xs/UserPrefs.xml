@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{49E74102-2C36-4A9B-85AE-1CFB00215E2A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cars-and-Used-Car-Lot/Program.cs">
+    <Files>
+      <File FileName="Cars-and-Used-Car-Lot/Car.cs" />
+      <File FileName="Cars-and-Used-Car-Lot/Program.cs" Line="21" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Cars-and-Used-Car-Lot" expanded="True">
+            <Node name="Cars-and-Used-Car-Lot" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Cars-and-Used-Car-Lot FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Cars-and-Used-Car-Lot PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
